@@ -23,7 +23,6 @@
     "hexo-renderer-swig": "^1.1.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "isomorphic-git": "^1.8.1",
-    "hexo-git-server-sync": "^0.01"
+    "isomorphic-git": "^1.8.1"
   }
 }
