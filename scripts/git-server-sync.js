@@ -12,7 +12,7 @@ http.createServer(function (req,res){
 
     event.send('sync_event'); 
     res.writeHead(200,{'Content-Type':'text/plain'});
-    res.end('Hello World\n' + __dirname);
+    res.end('Hello World');
 
 }).listen(8888);
 

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 红码IT工合社
-subtitle: '红码IT工合社(RedCodeIT,简称RCIT)是一个致力于集体制经济的组织'
-description: '红码IT工合社官方网站'
+title: 红码IT
+subtitle: '红码IT(RedCodeIT,简称RCIT),致力于集体制经济'
+description: '红码IT'
 keywords: 
-author: 红码IT工合社
+author: 红码IT
 language: zh-Hans
 timezone: 'Asia/Shanghai'
 
